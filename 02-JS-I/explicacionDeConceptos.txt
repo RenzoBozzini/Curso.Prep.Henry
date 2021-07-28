@@ -1,0 +1,11 @@
+Variables: son ubicaciones donde podes guardar datos (numeros, palabras y caracteres). En JS se usa la palabra "var" para definir variables.
+
+Strings: va siempre entre comillas y son una "cadena" de caracteres.
+
+Funciones (argumentos, return): Las funciones (callable objects) son específicas de cada lenguaje de programación, 
+se nombran y poseen variables (argumentos) entre paréntesis, luego entre llaves se escribe el código a ejecutar,
+la forma más fácil de devolver un resultado es con la palabra "return". En JS se usa la palabra "function" para definir funciones
+
+Declaraciones if: Es un condicional que si es "true" sigue leyendo, pero si es "false" pasa a la siguiente linea.
+
+Valores booleanos (true, false): son valores como si fuesen 0 y 1 que devuelven los condicionales.
