@@ -1,0 +1,9 @@
+El comando `for` sirve para iterar un código hasta llegar a una condición a través de un paso definido. 
+En JS el comando for va acompañado de 3 argumentos separados entre ; -> for (var i=0 ; i=10 ; i++)
+
+Dentro del operador condicional if podemos hacer uso de operadores condicionales como ser el and &&, or || y not !. Dode :
+&& -> el operador codicional and solo estrega true si las dos condiciones son true.
+|| -> el operador codicional or solo estrega true si una de las dos condiciones son true. O una o la otra.
+!-> el operador codicional not niega lo que hay dentro del paréntesis, por ejemplo !(false) es igual a true.
+* `&&`, `||`, `!`
+
