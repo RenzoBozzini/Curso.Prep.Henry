@@ -1,0 +1,9 @@
+* Arrays:
+Arrays o arreglos es una matriz de elementos. A través de esta matriz se puede almacenar elementos de todo tipo,
+como ser numeros, string, booleanos, null y hasta otros arreglos adentro de un arreglo.
+Los arrays se expresan dentro de brackets [] y los elementos se separan con comas.
+Se pueden convinar el array con diferentes funciones como:
+.length para obtener la cantidad de elementos dentro del array. Ojo que se empieza a contar desde cero.
+.push() para agregar un elemento más al final del array.
+. pop() para eliminar el último elemnto de un array.
+Los arrays suelen combinarse mucho con los for para la asignación o visualización de los elementos dentro del array.
