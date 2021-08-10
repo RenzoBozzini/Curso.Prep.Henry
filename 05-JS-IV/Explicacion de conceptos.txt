@@ -1,0 +1,12 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos: Los objetos contienen pares de Key-Value que significa que pueden guardar diferentes valores (numeros, styngs, booleanos, funciones) dentro
+de "claves". Los arrays por ejemplo son un objeto con "clave" estandar de va de 0 a n. 
+	* Propiedades: Las propiedades de un objeto con el par clave-valor.
+	* Métodos: son las funciones invocadas dentro de un objeto.
+	* Bucle `for…in`: me permite recorrer las propiedades dentro de un objeto.
+	* Notación de puntos vs notación de corchetes: es una forma de anotación para acceder o asignar propiedades, es decir nombre a los key y 
+valores del mismo a través del :. Por ej: objeto['propiedad1'] o abjeto.propiedad1.
+
+
