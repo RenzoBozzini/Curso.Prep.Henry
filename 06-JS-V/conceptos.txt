@@ -1,0 +1,5 @@
+* `prototype`: un prototype es como una propiedad dentro de un objeto. Esta propiedad se usa cuando el interrogador no encuentra un propiedad definida dentro del objeto.
+
+
+* _Constructors_ (de Clases): los constructores son plantillas para crear objetos.
+
