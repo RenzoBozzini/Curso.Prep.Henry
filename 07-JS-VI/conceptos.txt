@@ -1,0 +1,10 @@
+Funciones Callback: son funciones que tienen como argumento otra función.
+
+por ejemplo:
+.forEach es un método que pasa cada elemento de un array por una función que denominamos cb (puede tener cualquier nombre
+solo que usamos cb). array.forEach (cb).
+
+.map es un método que crea un nuevo array luego de pasar cada elemento por el cb (funcion en el argumento).
+array.map (function (elemento){
+	console.log (elemento * 2);
+	}) // con esto logramos multiplicar x 2 cada elemento del array y obtener la otra array.
